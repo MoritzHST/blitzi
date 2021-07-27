@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <sanction place='outside' from='1' to='10'>
+        <money>
+            10€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='1' to='10'>
+        <money>
+            15€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='11' to='15'>
+        <money>
+            20€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='11' to='15'>
+        <money>
+            25€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='16' to='20'>
+        <money>
+            30€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='16' to='20'>
+        <money>
+            35€
+        </money>
+        <points>
+            0
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+
+
+    <sanction place='outside' from='21' to='25'>
+        <money>
+            70€
+        </money>
+        <points>
+            1
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+    <sanction place='outside' from='26' to='30'>
+        <money>
+            80€
+        </money>
+        <points>
+            1
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='21' to='25'>
+        <money>
+            80€
+        </money>
+        <points>
+            1
+        </points>
+        <drivingBan>
+            0
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='26' to='30'>
+        <money>
+            100€
+        </money>
+        <points>
+            1
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+
+
+    <sanction place='outside' from='31' to='40'>
+        <money>
+            120€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='31' to='40'>
+        <money>
+            160€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='41' to='50'>
+    <money>
+        160€
+    </money>
+    <points>
+        2
+    </points>
+    <drivingBan>
+        1
+    </drivingBan>
+</sanction>
+    <sanction place='inside' from='41' to='50'>
+        <money>
+            200€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='51' to='60'>
+        <money>
+            240€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            1
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='51' to='60'>
+        <money>
+            280€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            2
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='61' to='70'>
+        <money>
+            440€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            2
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='61' to='70'>
+        <money>
+            480€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            3
+        </drivingBan>
+    </sanction>
+
+    <sanction place='outside' from='70' >
+        <money>
+            600€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            3
+        </drivingBan>
+    </sanction>
+    <sanction place='inside' from='70'>
+        <money>
+            680€
+        </money>
+        <points>
+            2
+        </points>
+        <drivingBan>
+            3
+        </drivingBan>
+    </sanction>
+</resources>

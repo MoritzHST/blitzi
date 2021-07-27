@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blitzi</string>
+    <string name="title_activity_main">Blitzi</string>
+    <string name="akt_geschwindigkeit">Akt. Geschwindigkeit:</string>
+    <string name="erl_geschwindigkeit">Erl. Geschwindigkeit:</string>
+    <string name="bu_geld">Bußgeld:</string>
+    <string name="punkte">Punkte:</string>
+    <string name="fahrverbot">Fahrverbot:</string>
+</resources>
